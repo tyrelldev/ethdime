@@ -25,7 +25,7 @@ class Balance extends React.Component {
   }
 
   _fetchBalance() {
-    const url = `http://api.ethplorer.io/getAddressInfo/${this.props.address}?apiKey=freekey`
+    const url = `https://api.ethplorer.io/getAddressInfo/${this.props.address}?apiKey=freekey`
     fetch(url).then(resp => resp.json()).then(data => {
       this.setState({
         balance: data.ETH.balance
