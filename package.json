@@ -1,0 +1,21 @@
+{
+  "name": "parcel-react-example",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html ",
+    "build": "parcel build index.html --detailed-report --public-url /"
+  },
+  "dependencies": {
+    "babel-preset-react-app": "^3.1.0",
+    "bitcore-lib": "^0.15.0",
+    "ethereum-blockies-base64": "^1.0.2",
+    "ethereumjs-util": "^6.0.0",
+    "qrcode.react": "^0.8.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "parcel-bundler": "^1.10.3"
+  }
+}
