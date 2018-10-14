@@ -2,9 +2,9 @@
 
 Cash-like physical ether. Store your ether / tokens on your favorite Opendime.
 
-[Visit the App](https://github.com)
+[Visit the App](https://tyrelldev.github.io/ethdime/)
 
-![](https://i.imgur.com/v25jWlTg.png | width=250)
+![](https://raw.githubusercontent.com/tyrelldev/ethdime/master/screenshot.png)
 
 ### Why ?
 
